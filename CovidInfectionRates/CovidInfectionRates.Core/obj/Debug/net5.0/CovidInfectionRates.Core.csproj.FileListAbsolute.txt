@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\CovidInfectionRates\CovidInfectionRates.Core\obj\Debug\net5.0\CovidInfectionRates.Core.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\CovidInfectionRates\CovidInfectionRates.Core\obj\Debug\net5.0\CovidInfectionRates.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\CovidInfectionRates\CovidInfectionRates.Core\obj\Debug\net5.0\CovidInfectionRates.Core.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\CovidInfectionRates\CovidInfectionRates.Core\obj\Debug\net5.0\CovidInfectionRates.Core.AssemblyInfo.cs
+C:\Users\hp\Desktop\CovidInfectionRates\CovidInfectionRates.Core\obj\Debug\net5.0\CovidInfectionRates.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CovidInfectionRates\CovidInfectionRates.Core\bin\Debug\net5.0\CovidInfectionRates.Core.deps.json
+C:\Users\hp\Desktop\CovidInfectionRates\CovidInfectionRates.Core\bin\Debug\net5.0\CovidInfectionRates.Core.dll
+C:\Users\hp\Desktop\CovidInfectionRates\CovidInfectionRates.Core\bin\Debug\net5.0\ref\CovidInfectionRates.Core.dll
+C:\Users\hp\Desktop\CovidInfectionRates\CovidInfectionRates.Core\bin\Debug\net5.0\CovidInfectionRates.Core.pdb
+C:\Users\hp\Desktop\CovidInfectionRates\CovidInfectionRates.Core\bin\Debug\net5.0\CovidInfectionRates.Model.dll
+C:\Users\hp\Desktop\CovidInfectionRates\CovidInfectionRates.Core\bin\Debug\net5.0\CovidInfectionRates.Model.pdb
+C:\Users\hp\Desktop\CovidInfectionRates\CovidInfectionRates.Core\obj\Debug\net5.0\CovidInfectionRates.Core.csproj.CopyComplete
+C:\Users\hp\Desktop\CovidInfectionRates\CovidInfectionRates.Core\obj\Debug\net5.0\CovidInfectionRates.Core.dll
+C:\Users\hp\Desktop\CovidInfectionRates\CovidInfectionRates.Core\obj\Debug\net5.0\ref\CovidInfectionRates.Core.dll
+C:\Users\hp\Desktop\CovidInfectionRates\CovidInfectionRates.Core\obj\Debug\net5.0\CovidInfectionRates.Core.pdb

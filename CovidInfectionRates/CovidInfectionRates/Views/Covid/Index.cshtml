@@ -1,0 +1,52 @@
+﻿@model List<CovidInfectionRates.Model.States>
+
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div>
+    <h3 class="display-4">Covid-19 Infection Rates in Nigeria</h3>
+    <center>
+           <p>Death: @ViewBag.Death</p>
+            <p>Discharged: @ViewBag.Discharged</p>
+            <p>Total Active Cases: @ViewBag.TotalActiveCases</p>
+            <p>Total Confirmed Cases: @ViewBag.TotalConfirmedCases</p>
+            <p>Total Samples Tested: @ViewBag.TotalSamplesTested</p>
+               
+                <hr />
+
+    </center>
+
+    @if (Model != null && Model.Count > 0)
+    {
+        <table class="table table-bordered table-striped table-sm">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>State</th>
+                    <th>Cases on Admission</th>
+                    <th>Confirmed Cases</th>
+                    <th>Discharged</th>
+                    <th>Death</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item._Id)</td>
+                        <td>@Html.DisplayFor(modelItem => item.State)</td>
+                        <td>@Html.DisplayFor(modelItem => item.CasesOnAdmission)</td>
+                        <td>@Html.DisplayFor(modelItem => item.ConfirmedCases)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Discharged)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Death)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+
+</div>.

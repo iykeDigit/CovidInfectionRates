@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nUEV6d8/vvunIp2M0Nd9SjcW1Mk152nx43zvODvbs3JtyiDwTyIOx164xJg6+634HwRcqMvvI1emYVQkSYDYZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\CovidInfectionRates\\CovidInfectionRates.Core\\CovidInfectionRates.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
