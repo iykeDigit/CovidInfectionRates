@@ -55,11 +55,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\CovidInfectionRates\\CovidInfectionRates.Model\\CovidInfectionRates.Model.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\MyProjects\\CovidInfectionRates\\CovidInfectionRates\\CovidInfectionRates.Model\\CovidInfectionRates.Model.csproj",
       "projectName": "CovidInfectionRates.Model",
-      "projectPath": "C:\\Users\\hp\\Desktop\\CovidInfectionRates\\CovidInfectionRates.Model\\CovidInfectionRates.Model.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\MyProjects\\CovidInfectionRates\\CovidInfectionRates\\CovidInfectionRates.Model\\CovidInfectionRates.Model.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\CovidInfectionRates\\CovidInfectionRates.Model\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\MyProjects\\CovidInfectionRates\\CovidInfectionRates\\CovidInfectionRates.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
